@@ -1,0 +1,11 @@
+pandoc is installed on this system and is the goto tool for file convertions. 
+Here is a good wrap up of how to use it.
+
+To see all formats and pandoc documentation go to :https://pandoc.org/MANUAL.html#options
+You can also use this command for output formats: --list-output-formats
+And this for supported raw file types: -list-extensions
+
+
+USE THIS SIMPLE SYNTAX: pandoc -t FORMAT --to=FORMAT -o OUTPUTFILE
+
+

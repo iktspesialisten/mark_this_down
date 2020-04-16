@@ -1,0 +1,6 @@
+MARKDOWN
+Is a lightweight markup language with plain-text formatting syntax. Markdown is often used to format readme files, for writing messages in online discussion forums.
+One good reason to use markup language often in README files (like README.md) is that it is very easy to convert to other file formats as opose to plain rich text format.
+Sites like GitHub, Bitbucket, Reddit, Diaspora, Stack Exchange, OpenStreetMap, and SourceForge use variants of Markdown to facilitate discussion between users.
+Features of markdown is things like tables, footnotes, ,definition lists.
+markdown_example.md is an example where you see various "language markdown code" and corresponding a markdown_example.html that show the result when it is converted to HTML.
